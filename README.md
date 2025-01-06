@@ -40,3 +40,8 @@
 <p align="left">👋 Hello! I am Anderson Junior, a student of Systems Analysis and Development at Estacio College. I am focused on building a career as a developer, honing my skills through ongoing projects and courses. Here at GitHub, you will find my projects, learnings and experiments in the world of programming. 🚀</p>
 
 ###
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonJr-Dev/AndersonJr-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndersonJr-Dev/AndersonJr-Dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
