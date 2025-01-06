@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Anderson and I'm a developer from Brazil</h2>
+<h2 align="left">Oi 👋! Meu nome é Anderson Junior e sou desenvolvedor!</h2>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndersonJr-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonJr-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndersonJr-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonJr-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
@@ -37,9 +37,10 @@
 
 ###
 
-<p align="left">👋 Hello! I am Anderson Junior, a student of Systems Analysis and Development at Estacio College. I am focused on building a career as a developer, honing my skills through ongoing projects and courses. Here at GitHub, you will find my projects, learnings and experiments in the world of programming. 🚀</p>
+<p align="left">👋 Olá! Sou Anderson Junior, estudante de Análise e Desenvolvimento de Sistemas na Estácio. Estou focado em construir uma carreira como desenvolvedor, aprimorando minhas habilidades por meio de projetos e cursos em andamento. Aqui no GitHub, você encontrará meus projetos, aprendizados e experimentos no mundo da programação. 🚀</p>
 
 ###
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndersonJr-Dev/AndersonJr-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndersonJr-Dev/AndersonJr-Dev/output/github-contribution-grid-snake-dark.svg">
