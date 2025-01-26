@@ -16,10 +16,9 @@ Me chamo Anderson Assumpção Junior, tenho 31 anos e sou natural do Rio de Jane
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
----
 
 ### 🤖 Linguagens e Tecnologias
-<br>
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -32,27 +31,23 @@ Me chamo Anderson Assumpção Junior, tenho 31 anos e sou natural do Rio de Jane
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-### 📊 Estatísticas
-
-</p>
-
----
 <br/>
-
+### 📊 Estatísticas
+<br/>
+<br/>
 <p>
-  <img 
+    <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AndersonJr-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonJr-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+<p/>
