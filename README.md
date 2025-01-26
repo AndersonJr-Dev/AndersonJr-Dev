@@ -32,7 +32,9 @@ Me chamo Anderson Assumpção Junior, tenho 31 anos e sou natural do Rio de Jane
 </div>
 
 <br/>
-### 📊 Estatísticas
+
+ ### 📊 Estatísticas
+
 <br/>
 <br/>
 <p>
