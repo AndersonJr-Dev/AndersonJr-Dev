@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Anderson Assumpção Junior, tenho 31 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil e também através do Instagram, com o perfil chamado "[AndersonjrDev](https://www.instagram.com/andersonjrdev/)".
+Me chamo Anderson Assumpção Junior, tenho 31 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil.
 
 
 <div align="left">
