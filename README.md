@@ -51,7 +51,7 @@ Me chamo Anderson Assumpção Junior, tenho 31 anos e sou natural do Rio de Jane
       align="left" 
       alt="GitHub Stats" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonJr-De&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonJr-Dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 <p/>
