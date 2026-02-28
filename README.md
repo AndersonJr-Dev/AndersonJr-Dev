@@ -6,7 +6,7 @@ Desenvolvedor focado em criar aplicações web performáticas, escaláveis e com
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas** e me aprofundando em ecossistemas modernos de JavaScript/TypeScript.
 
-Meu site portfólio: https://andersondev-fullstack.vercel.app
+Meu site portfólio: https://andersonjrdev.tech
 
 ### 📊 Estatísticas</h4>
 
