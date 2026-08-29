@@ -11,9 +11,12 @@ Meu site portfólio: https://andersonjrdev.tech
 ### 📊 Estatísticas</h4>
 
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=AndersonJr-Dev&locale=en&mode=weekly&theme=darcula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/AndersonJr-Dev/AndersonJr-Dev/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/AndersonJr-Dev/AndersonJr-Dev/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 
 ### 🤖 Linguagens e Tecnologias</h4>
