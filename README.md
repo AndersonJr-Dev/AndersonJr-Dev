@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Olá, Sou Anderson Junior!</h1>
+<h1 data-importer="text" align="center">Olá, sou Anderson Junior!</h1>
 
 ###
 
